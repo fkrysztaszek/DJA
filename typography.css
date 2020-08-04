@@ -1,13 +1,14 @@
+/*
 html, body{
 	height: 100%;
 	font-family: 'Rubik';
 	line-height: 1.5;
 	font-weight: 400;
 }
-
+*/
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-h1, h2, h3, h4, h5, h6 {
+/* h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0;
   font-weight: 300;
@@ -23,10 +24,11 @@ p {
   margin-top: 0;
 }
 
-
+*/
 /* APP
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.app_title, .menu_down, .menu_down2 {
+/*
+/* .app_title, .menu_down, .menu_down2 {
 	text-align: center;
 }
 
@@ -43,7 +45,7 @@ p {
 .T_right {
 	float: left;
 	width: 72%;
-}
+} 
 
 .under_left {
 	width: 40%;
@@ -87,10 +89,10 @@ p {
 }
 
 
-
+ */
 /* FOOTER AND ADDITIONS
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.footer {
+/* .footer {
 	clear: both;
 	width: 100%;
 	font-size: 12px;
@@ -103,6 +105,7 @@ p {
 
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+/*
 .button, button, input[type="submit"], input[type="reset"], input[type="button"] {
 	display: inline-block;
 	height: 38px;
@@ -141,3 +144,4 @@ p {
 	color: #FFF;
 	background-color: #1EAEDB;
 	border-color: #1EAEDB; }
+ */
